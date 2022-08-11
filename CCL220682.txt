@@ -1,0 +1,4 @@
+Aug 2, 2021, 5:01:24 PM: Acount # 220682 Opened.
+Aug 2, 2021, 5:01:53 PM:  Charge declined: over limit.
+Aug 2, 2021, 5:02:04 PM:  Charge of 100.0 for gaz posted.
+Aug 2, 2021, 5:02:33 PM: Increase declined: not a multiple of 100.

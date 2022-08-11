@@ -1,0 +1,7 @@
+Apr 29, 2022 9:42:26 PM: Acount # 586215 Opened.
+Apr 29, 2022 9:42:32 PM:  Charge of 100.0 for gaz posted.
+Apr 29, 2022 9:42:53 PM: Increase request of 100.0 declined at this time.
+Apr 29, 2022 9:42:58 PM:  Credit Increase of 100.0granted.
+Apr 29, 2022 9:43:03 PM:  Credit Increase of 100.0granted.
+Apr 29, 2022 9:43:06 PM: Increase request of 100.0 declined at this time.
+Apr 29, 2022 9:43:11 PM:  Credit Increase of 500.0granted.

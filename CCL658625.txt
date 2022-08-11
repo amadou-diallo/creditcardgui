@@ -1,0 +1,5 @@
+Apr 22, 2021, 6:21:11 AM: Acount # 658625 Opened.
+Apr 22, 2021, 6:21:18 AM:  Charge of 300.0 declined: no description.
+Apr 22, 2021, 6:21:34 AM:  Charge of 300.0 for luch posted.
+Apr 22, 2021, 6:22:06 AM:  Credit Increase of 100.0granted.
+Apr 22, 2021, 6:22:46 AM: Increase declined: not a multiple of 100.
